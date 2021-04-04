@@ -1,0 +1,3 @@
+/Users/rasputin/CLionProjects/zmqtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rasputin/CLionProjects/zmqtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rasputin/CLionProjects/zmqtest/cmake-build-debug/CMakeFiles/zmqtest.dir
